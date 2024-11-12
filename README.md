@@ -50,8 +50,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/06361c4b-c8d8-420e-b448-9964c9f6840f)
 
-### Name:RAJARAMAN V
-### Register Number:212223110038
+### Name:SANJAYKUMAR N B
+### Register Number:212223230189
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
