@@ -48,7 +48,8 @@
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/06361c4b-c8d8-420e-b448-9964c9f6840f)
+![WhatsApp Image 2024-11-23 at 11 35 19_185886f8](https://github.com/user-attachments/assets/a013a7b8-c35a-4744-a5aa-883f71d1b664)
+
 
 ### Name:SANJAYKUMAR N B
 ### Register Number:212223230189
